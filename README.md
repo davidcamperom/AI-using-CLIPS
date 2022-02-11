@@ -1,5 +1,7 @@
-# Español: IA.18-19
-Inteligencia Artificial using CLIPS 6.3
+:octocat: David Campero Maña  
 
-# English: AI.18-19
-Artificial Intelligence using CLIPS 6.3
+# Español: Inteligencia Artificial usando CLIPS 6.3
+Varios simples proyectos para aprender CLIPS y sus usos
+
+# English: Artificial Intelligence using CLIPS 6.3
+Several simple projects to learn CLIPS and its uses
